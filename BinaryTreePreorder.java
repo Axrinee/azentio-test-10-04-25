@@ -27,6 +27,6 @@ class Solution {
                 return i;
             }
         }
-        return -1; // shouldn't happen with valid input
+        return -1; 
     }    
 }
